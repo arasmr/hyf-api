@@ -1,0 +1,31 @@
+#root{
+    text-align: center;
+    margin:0 auto;
+    margin-top: 25px;
+    padding: 5%;
+    max-width: 500px;
+    background-color: bisque;
+}
+
+h1{
+    font-size: 3em;
+    color:rgb(0, 195, 255);
+}
+
+button{
+    background-color: rgb(221, 196, 219);
+    color:rgb(233, 27, 188);
+    width:100px;
+    height:30px;
+
+}
+input{
+    width:200px;
+    height:25px;
+    font-family: Courier New, Courier, monospace;
+}
+
+li{
+    text-align: left;
+    font-family: Courier New, Courier, monospace;
+}

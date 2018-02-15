@@ -1,0 +1,7 @@
+?bornCountryCode=NL&diedCountry=United Kingdom
+?bornCountryCode=NL
+?diedCountry=United Kingdom
+?category=medicine
+?category=medicine&year=1956
+?gender=male&diedCountryCode=BE
+?bornCodeCountry=NL&_sort=surname
